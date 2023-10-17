@@ -1,2 +1,3 @@
 .venv
-.Result.input
+Result/input
+.idea
